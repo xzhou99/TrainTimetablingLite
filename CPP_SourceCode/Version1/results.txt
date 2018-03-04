@@ -1,0 +1,17 @@
+
+Lowbound
+DFS     161  70s
+DFS     143  58s
+Cutset  85   33s
+
+88.9%
+52.8%
+
+
+DFS     277   213s
+Cutset  159   114s
+
+57.4%
+59.4%
+
+

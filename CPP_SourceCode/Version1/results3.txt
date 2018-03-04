@@ -1,0 +1,7 @@
+
+Base     92165 93 secs.
+Lowbound 29651 7 secs
+
+
+Base 56617   25 secs
+Lowbound 21767 5 secs.

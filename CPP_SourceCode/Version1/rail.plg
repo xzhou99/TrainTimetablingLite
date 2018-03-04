@@ -1,0 +1,78 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: rail - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ZHOU\AppData\Local\Temp\RSP2D7C.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /D "_AFXDLL" /Fp"Release/rail.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Workspace\Rail_5.0\def.cpp"
+"C:\Workspace\Rail_5.0\DlgComputeSettings.cpp"
+"C:\Workspace\Rail_5.0\DlgText.cpp"
+"C:\Workspace\Rail_5.0\DlgTimeTableSettings.cpp"
+"C:\Workspace\Rail_5.0\ge_Node.cpp"
+"C:\Workspace\Rail_5.0\MainFrm.cpp"
+"C:\Workspace\Rail_5.0\Node.cpp"
+"C:\Workspace\Rail_5.0\rail.cpp"
+"C:\Workspace\Rail_5.0\railDoc.cpp"
+"C:\Workspace\Rail_5.0\railView.cpp"
+"C:\Workspace\Rail_5.0\TrainListDlg.cpp"
+"C:\Workspace\Rail_5.0\TreeView.cpp"
+]
+Creating command line "cl.exe @C:\Users\ZHOU\AppData\Local\Temp\RSP2D7C.tmp" 
+Creating temporary file "C:\Users\ZHOU\AppData\Local\Temp\RSP2D8C.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /D "_AFXDLL" /Fp"Release/rail.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Workspace\Rail_5.0\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\ZHOU\AppData\Local\Temp\RSP2D8C.tmp" 
+Creating temporary file "C:\Users\ZHOU\AppData\Local\Temp\RSP2D8D.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/rail.pdb" /machine:I386 /out:"Release/rail.exe" 
+.\Release\def.obj
+.\Release\DlgComputeSettings.obj
+.\Release\DlgText.obj
+.\Release\DlgTimeTableSettings.obj
+.\Release\ge_Node.obj
+.\Release\MainFrm.obj
+.\Release\Node.obj
+.\Release\rail.obj
+.\Release\railDoc.obj
+.\Release\railView.obj
+.\Release\StdAfx.obj
+.\Release\TrainListDlg.obj
+.\Release\TreeView.obj
+.\Release\rail.res
+]
+Creating command line "link.exe @C:\Users\ZHOU\AppData\Local\Temp\RSP2D8D.tmp"
+<h3>Output Window</h3>
+Compiling...
+StdAfx.cpp
+Compiling...
+def.cpp
+DlgComputeSettings.cpp
+C:\Workspace\Rail_5.0\DlgComputeSettings.cpp(81) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+C:\Workspace\Rail_5.0\DlgComputeSettings.cpp(860) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+DlgText.cpp
+DlgTimeTableSettings.cpp
+ge_Node.cpp
+MainFrm.cpp
+Node.cpp
+rail.cpp
+railDoc.cpp
+railView.cpp
+TrainListDlg.cpp
+TreeView.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+rail.exe - 0 error(s), 2 warning(s)
+</pre>
+</body>
+</html>

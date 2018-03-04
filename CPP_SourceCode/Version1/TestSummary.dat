@@ -1,0 +1,6 @@
+ 
+-----------------------------------------
+ Test DFS AND Base Search without Best Search 
+
+# 7 Success:     1.000  >> Average  space:   243.000   time:   143.500   conflict:     3.000    >> Deviation:  space:     0.000   time:    97.297   conflict:     0.000   
+# 8 Success:     1.000  >> Average  space:   685.000   time:   485.200   conflict:     5.000    >> Deviation:  space:     0.000   time:   120.861   conflict:     0.000   

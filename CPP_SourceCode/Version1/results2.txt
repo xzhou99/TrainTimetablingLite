@@ -1,0 +1,7 @@
+
+559  132
+325  74  // Lower bound
+
+505  120  // Cutset
+
+30461 31 // Lower bound

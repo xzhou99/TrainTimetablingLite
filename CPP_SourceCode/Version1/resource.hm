@@ -1,0 +1,4 @@
+// Microsoft Visual C++ generated Help ID include file.
+// Used by rail.rc
+//
+#define HIDC_STATIC                     0x8064ffff    // IDD_ABOUTBOX
